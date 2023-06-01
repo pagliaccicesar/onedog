@@ -165,7 +165,8 @@ article {
   }
 }
 article p {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower';
+  /*font-family: 'Indie Flower', cursive;*/
   max-width: 90%;
   margin: 0 auto;
   padding: 0.5rem 1.55rem;
